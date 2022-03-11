@@ -2,6 +2,9 @@ package com.sistemitaly.Bean;
 
 import java.util.Arrays;
 
+/**
+ * Bean per l'astrazione di una risposta generica
+ */
 public class GenericResponse {
 
     public String status;

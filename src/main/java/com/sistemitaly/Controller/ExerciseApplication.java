@@ -3,6 +3,9 @@ package com.sistemitaly.Controller;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * Entry point dell'applicazione
+ */
 @SpringBootApplication
 public class ExerciseApplication {
 

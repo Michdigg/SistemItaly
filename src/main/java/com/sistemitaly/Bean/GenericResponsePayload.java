@@ -1,8 +1,10 @@
 package com.sistemitaly.Bean;
 
-
 import java.util.Date;
 
+/**
+ * Payload di una risposta generica
+ */
 public class GenericResponsePayload {
 
     public Date date;

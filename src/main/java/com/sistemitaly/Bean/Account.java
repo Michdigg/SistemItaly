@@ -1,5 +1,8 @@
 package com.sistemitaly.Bean;
 
+/**
+ * Bean per l'astrazione dell'account
+ */
 public class Account {
 
     private long accountId;

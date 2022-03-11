@@ -1,5 +1,8 @@
 package com.sistemitaly.Bean;
 
+/**
+ * Bean per la mappatura della richiesta per un bonifico
+ */
 public class TransferBodyRequest {
     public String receiverName;
 
